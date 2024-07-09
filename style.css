@@ -1,0 +1,39 @@
+@import "reset.css";
+@import "main.css";
+@import "main2.css";
+@import "main3.css";
+@import "main4.css";
+
+.content4 {
+    width: 100%;
+
+    border-top: 2px solid black;
+}
+
+.content4__box {
+    width: 70%;
+    margin: 0 auto;
+}
+
+.content4__p {
+    display: flex;
+    padding: 20px 0 ;
+}
+
+.content__p__li {
+    display: flex;
+    padding:  20px 0;
+    gap: 10px;
+}
+
+.content4__box4 {
+    display: flex;
+    justify-content: end;
+    gap: 40px;
+}
+
+.content4__p4 {
+    border: 1px solid;
+    padding: 13px;
+    border-radius: 8px;
+}
